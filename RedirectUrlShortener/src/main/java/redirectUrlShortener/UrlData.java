@@ -1,4 +1,4 @@
-package urlshortener;
+package redirectUrlShortener;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
